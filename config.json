@@ -1,0 +1,6 @@
+{
+  "proxyRoutes": {
+    "/abc": "http://abc123.com",
+    "/xyz": "http://hao123.com"
+  }
+}
